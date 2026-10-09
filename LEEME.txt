@@ -1,0 +1,15 @@
+CELESTE · EL BOSQUE ENCANTADO
+
+1. Extrae este ZIP en una carpeta (no lo abras directamente dentro del compresor).
+2. Abre celeste/index.html con Chrome, Edge o Safari.
+3. Toca la puerta de la casa del árbol y luego la portada de «El Libro Mágico».
+4. Usa las flechas para ver las cinco fotos de Celeste.
+
+CORRECCIÓN: Las cinco fotografías están ahora incrustadas en index.html.
+Se mostrarán incluso si se abre el archivo HTML por separado, sin acceso a la carpeta assets.
+La música también está integrada en el HTML y comienza tras tocar la puerta.
+Los archivos originales se conservan en assets por si deseas cambiarlos después.
+
+Fecha: sábado 17 de octubre de 2026, 4:00 p. m.
+Ubicación: https://maps.app.goo.gl/tPHk3qFxr4nZFMTb6?g_st=aw
+En el capítulo III, toca «Cómo llegar al Bosque Encantado» para abrir Google Maps.
